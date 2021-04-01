@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+.image {
+    margin-right: 80px;
+    position: relative;
+}
+.title {
+    margin-bottom: 30px;
+}
+.padding{
+    padding-right: 10px !important;
+    padding-left: 35px !important;
+}

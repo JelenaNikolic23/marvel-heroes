@@ -1,0 +1,9 @@
+.info{
+    margin-bottom: 70px;
+}
+.link {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: black;
+}
